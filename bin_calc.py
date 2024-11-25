@@ -81,6 +81,8 @@ def main():
             print(f"The binary representation of {value} is: {ip_to_binary(value)}")
         elif mode == 'binary':
             print(f"The dotted-decimal representation of {value} is: {binary_to_ip(value)}")
+        elif mode == 'bin2dec':
+            print(f"The decimal representation of {value} is: {binary_to_decimal(value)}")
         else:
             print("Unknown mode. Use 'decimal', 'ip', or 'binary'.")
     except ValueError as e:
