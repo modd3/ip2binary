@@ -1,5 +1,3 @@
----
-
 # Decimal, IP to Binary, and Binary to IP Converter
 
 This project provides a Python script to convert:
@@ -112,4 +110,3 @@ This project is open-source and available under the MIT License. See the LICENSE
 
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
 
---- 
